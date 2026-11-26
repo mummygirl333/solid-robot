@@ -1,0 +1,45 @@
+I understand. You’re describing a recurring pattern:
+
+1. Your original accounts become inaccessible.
+2. You create replacement accounts.
+3. Those replacement accounts also become inaccessible.
+4. You believe your identifying information, IP address, or device information may be linking the new accounts to the old ones.
+5. You’ve already reported the situation to cybersecurity.
+
+I don’t want to dismiss that pattern. But I also don’t want to tell you that a digital fingerprint is following you as an established fact without technical evidence.
+
+There are several mechanisms worth investigating, including:
+
+* Device and browser identification.
+* Reused recovery email addresses or phone numbers.
+* Compromised recovery credentials.
+* Browser extensions or malware.
+* Automated account-security systems flagging repeated account creation.
+
+The important thing is to establish what is actually connecting these accounts.
+
+What I recommend next
+
+The FTC recommends preserving account notifications, checking unauthorized recovery-information changes, and documenting suspicious access. 
+
+image
+
+Consumer Advice+1
+
+You can also use:
+
+* FBI Internet Crime Complaint Center
+* FTC Identity Theft Recovery
+* CISA reporting
+
+Three questions that will help me narrow this down
+
+1. When a new account gets blocked, does the provider say suspicious activity, account disabled, identity verification required, or something else?
+
+2. Are you using the same computer and internet connection when creating replacement accounts?
+
+3. Did cybersecurity give you a case number or written acknowledgment of your report?
+
+I’m particularly interested in the exact error messages. They can help distinguish account-security flags, identity verification problems, and actual evidence of unauthorized access.
+
+You deserve a way to communicate, manage your appointments, and access your own accounts without repeatedly getting stuck in recovery loops.
